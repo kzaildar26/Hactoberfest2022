@@ -67,3 +67,8 @@ body{
     margin-left: 30px;
     margin-right: 10px;
 }
+
+.social-card-icon:hover{
+    color:white;
+}
+    
